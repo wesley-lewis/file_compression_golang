@@ -1,0 +1,4 @@
+
+https://golangdocs.com/bufio-package-golang
+
+https://pkg.go.dev/io/ioutil#ReadAll
